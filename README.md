@@ -85,6 +85,9 @@ The Logistic Regression model successfully predicts the likelihood of diabetes b
 * Matplotlib / Seaborn
 * Dash (for interactive dashboard visualization)
 
+Install dependencies using:
+pip install -r requirements.txt
+
 ---
 
 ## 🙌 Acknowledgment
