@@ -64,7 +64,7 @@ Diabetes is a chronic disease that can lead to serious health complications if n
 
 ## 📈 Results
 
-* **Accuracy:** ~75%–85% (depending on preprocessing and tuning)
+* **Accuracy:** ~75% (depending on preprocessing and tuning)
 * Model shows reliable performance in predicting diabetic cases
 * Balanced trade-off between precision and recall
 
